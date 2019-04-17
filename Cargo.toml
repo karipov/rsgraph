@@ -7,5 +7,6 @@ edition = "2018"
 description = "telegra.ph API bindings in Rust"
 readme = "README.md"
 license = "MIT"
+repository = "https://github.com/karipov/rsgraph"
 
 [dependencies]
