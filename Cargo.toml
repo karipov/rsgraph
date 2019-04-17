@@ -1,0 +1,7 @@
+[package]
+name = "rsgraph"
+version = "0.1.0"
+authors = ["komron <komron_aripov@cdl.ch>"]
+edition = "2018"
+
+[dependencies]
