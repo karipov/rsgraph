@@ -1,7 +1,10 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        assert_eq!(2 + 2, 4);
-    }
-}
+#![allow(dead_code)]
+#![allow(unused_imports)]
+
+mod types;
+
+use types::{
+    account,
+    node, node_element,
+    page
+};
