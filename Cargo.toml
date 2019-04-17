@@ -1,7 +1,11 @@
 [package]
 name = "rsgraph"
-version = "0.1.0"
+version = "0.1.0    "
 authors = ["komron <komron_aripov@cdl.ch>"]
 edition = "2018"
+
+description = "telegra.ph API bindings in Rust"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
