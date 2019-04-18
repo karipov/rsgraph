@@ -1,4 +1,4 @@
-use super::types::node::Node;
+use super::super::types::node::Node;
 
 pub struct CreatePage {
     access_token: String,
