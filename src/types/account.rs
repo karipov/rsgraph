@@ -6,5 +6,5 @@ pub struct Account {
     author_url: String,
     access_token: Option<String>,
     auth_url: Option<String>,
-    page_count: Option<i32>,
+    page_count: Option<u64>,
 }

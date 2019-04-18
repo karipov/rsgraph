@@ -5,7 +5,7 @@ pub struct NodeElement {
     // available tags: a, aside, b, blockquote, br, code, em,
     tag: String,
     // available attrs: href, src
-    attrs: Option<HashMap<String, i32>>,
+    attrs: Option<HashMap<String, i64>>,
     children: Option<Vec<Node>>
 
 }
